@@ -37,6 +37,10 @@ It also includes five visualisations:
 - Sales by Region
 - Sales by Sub-Category
 
+ ### Report Screenshot
+
+![Sales Analysis Report](Screenshots/SalesReportScreenshot.png)
+
 ## Dataset Description
 
 The retail sales dataset contains information about orders, customers, products, shipping details and sales performance.
