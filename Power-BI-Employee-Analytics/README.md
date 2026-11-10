@@ -33,7 +33,7 @@ Provides a summary of the workforce through key performance indicators and visua
 
 Explores employee distribution across job roles, education levels and education fields to provide an overview of the workforce structure.
 
-![Workforce Analysis](Screenshots/Workforce-Analysis.png)
+![Workforce Analysis](Screenshots/WorkforceAnalysis.png)
 
 ### 3. Attrition Analysis
 
