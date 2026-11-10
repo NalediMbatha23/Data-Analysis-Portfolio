@@ -43,7 +43,9 @@ It also includes five visualisations:
 
 ## Dataset Description
 
-The retail sales dataset contains information about orders, customers, products, shipping details and sales performance.
+The project uses a retail sales dataset obtained through a download link provided in Sai Kumar's YouTube tutorial.
+
+The dataset contains information about orders, customers, products, shipping details and sales performance.
 
 Key fields include:
 - Order ID and Order Date
@@ -51,6 +53,8 @@ Key fields include:
 - Country, State and Region
 - Product Category and Sub-Category
 - Sales, Quantity, Discount and Profit
+
+The original dataset was used for this project without additional data cleaning or transformation.
 
 ## Skills Demonstrated
 
