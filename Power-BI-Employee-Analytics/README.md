@@ -33,25 +33,25 @@ Provides a summary of the workforce through key performance indicators and visua
 
 Explores employee distribution across job roles, education levels and education fields to provide an overview of the workforce structure.
 
-![Workforce Analysis](Screenshots/WorkforceAnalysis.png)
+![Workforce Analysis](Screenshots/Workforce%20Analysis.png)
 
 ### 3. Attrition Analysis
 
 Examines employee turnover, including attrition patterns across age groups and job roles, alongside key attrition-related metrics.
 
-![Attrition Analysis](Screenshots/Attrition-Analysis.png)
+![Attrition Analysis](Screenshots/Attrition%20Analysis.png)
 
 ### 4. Compensation Analysis
 
 Explores average monthly income across departments and job roles using compensation data created for portfolio demonstration purposes.
 
-![Compensation Analysis](Screenshots/Compensation-Analysis.png)
+![Compensation Analysis](Screenshots/Compensation%20Analysis.png)
 
 ### 5. Key Insights & Recommendations
 
 Brings together workforce analysis through visualisations highlighting attrition by department, average monthly income by education level and workforce age distribution.
 
-![Key Insights](Screenshots/Key-Insights.png)
+![Key Insights](Screenshots/Insights%20Analysis.png)
 
 ## Dataset
 
